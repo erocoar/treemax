@@ -1,0 +1,14 @@
+{
+  "_output_dir": "C:\\Users\\pnl0ph56\\Documents\\treemax",
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Frederik Tiedemann",
+  "copyright_year": "2022",
+  "development_status": "Development Status :: 1 - Planning",
+  "email": "fj.tiedemann@googlemail.com",
+  "friendly_name": "treemax",
+  "github_user": "erocoar",
+  "license": "MIT",
+  "package_name": "treemax",
+  "project_name": "treemax",
+  "version": "0.0.0"
+}
